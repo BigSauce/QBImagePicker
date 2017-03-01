@@ -2,7 +2,7 @@
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-A clone of UIImagePickerController with multiple selection support.
+A clone of UIImagePickerController with multiple selection support (+ drag to select multiple photos).
 
 ![screenshot01.png](screenshot01.png)
 ![screenshot02.png](screenshot02.png)
